@@ -1,3 +1,36 @@
 h1 {
     color: red;
 }
+#head2 {
+    color: blue;
+}
+.head {
+    color:rgb(49, 0, 128);
+}
+.para {
+    border: 2px;
+    border-color: brown;
+    border-style: solid;
+    padding: 10px;
+    text-align: center;
+}
+.navbar {
+    border: 2px;
+    border-color: rgb(165, 165, 42);
+    border-style: solid;
+    padding: 10px;
+    text-align: center;
+    background-color:cadetblue;
+}
+.navbar a {
+    color: aquamarine;
+    text-decoration: none;
+    padding: 10px;
+}
+.navbar a:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.263);
+}
+body{
+    margin:0px;
+}
