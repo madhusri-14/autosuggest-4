@@ -1,0 +1,23 @@
+{
+  "name": "autosuggest-4",
+  "version": "1.0.0",
+  "description": "verifying my git set-up \r auto check",
+  "homepage": "https://github.com/madhusri-14/autosuggest-4#readme",
+  "bugs": {
+    "url": "https://github.com/madhusri-14/autosuggest-4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhusri-14/autosuggest-4.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
