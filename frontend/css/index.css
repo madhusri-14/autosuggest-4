@@ -50,4 +50,34 @@ body{
     background-color:greenyellow;
     margin-bottom:  20px;
 }
+.pill{
+    float: right;
+    margin-right: 20px;
+}
+.main-content{
+    text-align: center;
+}
+.gear{
+    position: fixed;
+    left: 20px;
+}
+.input{
+    border: 2px solid pink;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+.lens{
+    position:relative;
+    left:30px;
+}
+.search-box{
+    border-radius: 20px;
+    padding-right: 10px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
+}
