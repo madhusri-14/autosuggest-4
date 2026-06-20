@@ -24,7 +24,10 @@
     <p>One million phrases.Four algorithms.Prefix Based Auto Suggest.</p>
     <div>
         <span class="lens">&#128270;</span>
-        <input class="search-box" type="text" id="search" placeholder="start typing to search...">
-        <div id="search-suggestions"></div>
+        <input class="search-box" type="text" id="searchbar" placeholder="start typing to search..."id="searchbar" oninput="autosuggest()">
+       
+        <div id="searchsuggestions"></div>
+    
     </div>
+    <script src="../js/autosuggest.js"></script>
 </html>
