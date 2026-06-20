@@ -34,3 +34,20 @@ h1 {
 body{
     margin:0px;
 }
+.card{
+    border:2px solid aqua;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+    margin:auto;
+
+}
+.card img{
+    width: 100%;
+    text-align: center;
+}
+.card button{
+    background-color:greenyellow;
+    margin-bottom:  20px;
+}
+
